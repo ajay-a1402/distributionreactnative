@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Aj",
+    "slug": "network",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "https://www.clker.com/cliparts/w/l/t/C/P/8/loading-md.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000",
+      "style": {
+        "height": 10
+      }
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Letz Connect",
+    "githubUrl": "https://github.com/RathnavelSubramaniam/react-native-cia-2020-Palinjebamalar.git"
+  }
+}
